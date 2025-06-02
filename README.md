@@ -20,9 +20,9 @@ Authentication Service: Firebase Authentication
 
 ## 🚀 Demo
 
-Check out the live app here: [https://authify-demo.vercel.app/]
+Check out the live app here: [https://authentication-iota-two.vercel.app/login]
 
 ## 📥 How to Run Locally
 
 Clone this repository and install dependencies:
-[https://github.com/vadivarasan-45/Authify.git]
+[https://github.com/vadivarasan-45/Authentication.git]
